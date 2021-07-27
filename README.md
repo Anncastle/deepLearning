@@ -1,5 +1,6 @@
 # MachineLearning2020
-台湾大学李宏毅 Machine Learning 2020  课后作业
+台湾大学李宏毅 Machine Learning 2020  
+李沐 动手学深度学习V2
 
 # 参考资料
 
